@@ -10,8 +10,8 @@ It is a highly scalable, free and high performant one stop solution to:
 # Application Links
 |Code| Repo Links |Deployment Link
 | :-------- | :------- | :----|
-| Frontend| [Check Here](https://github.com/adhi-2311/learning-journal-frontend)|[Check Here](https://learning-journal-app.netlify.app/)|
-| Backend| [Check Here](https://github.com/adhi-2311/learning-journal-backend)|[Check Here](https://learning-journal-backend.herokuapp.com/)|
+| Frontend| [Check Here](https://github.com/adhi-2311/learning-journal-frontend)|[Check Here](https://learning-journal-app.netlify.app/landing)|
+| Backend| [Check Here](https://github.com/adhi-2311/learning-journal-backend)|[Check Here](https://learning-journal-backend.onrender.com/)|
 
 # API Reference
  [API Documentation](./API_DOCS.md)
